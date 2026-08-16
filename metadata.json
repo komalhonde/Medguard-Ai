@@ -1,0 +1,6 @@
+{
+  "name": "MedGuard AI - Clinical Decision Support & Triage System",
+  "description": "An end-to-end Healthcare AI engineering platform featuring Emergency Triage ML risk scoring, clinical guideline RAG, autonomous multi-tool clinical agents, and production Docker containerization for the Codenixia AI/ML Internship Challenge.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
